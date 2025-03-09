@@ -1,0 +1,17 @@
+
+<div align="center"><center>
+
+<table border="0" width="800" style="vertical-align: middle; line-height: -1px">
+  <tr>
+    <td width="100%" style="border: 1px solid"><p align="center"><strong><big><big><big><font
+    face="Times New Roman">Blank Project</font></big></big></big></strong></td>
+  </tr>
+  <tr>
+    <td width="100%"><p align="left"><font face="Times New Roman"><img src="../Dsfgh"
+    alt="Dscn0265.jpg (3674489 bytes)" align="left"
+    style="padding-right: 5px; padding-bottom: 5px">This is a blank project template.</font></td>
+  </tr>
+</table>
+</center></div>
+
+<p>&nbsp;</p>
